@@ -75,7 +75,9 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/suman897/suman897/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/suman897/suman897/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
