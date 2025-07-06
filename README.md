@@ -1,86 +1,109 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A full-stack web developer skilled in React, Tailwind, Node.js, and beyond</h3>
 
-<p align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suman897/suman897/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=suman897&label=Profile%20views&color=0e75b6&style=flat" alt="suman897" />
-</p>
-
-- 📫 How to reach me: **vamanparui2000@gmail.com**
-
----
-
-## 💻 Tech Stack
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220)
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23000.svg?style=plastic&logo=linux&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/suman-parui-ab3613184/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:vamanparui2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/u/art__98/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/suman-parui-ab3613184/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/art__98/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=suman897&show_icons=true&locale=en&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suman897&theme=default&hide_border=false&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=suman897&theme=default&hide_border=false)
-
----
+<br>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=suman897&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suman897&theme=gruvbox&no-bg=true&margin-w=10&title=Commits,PullRequest,Repositories,Experience" />
+</p>
 
----
+<br>
 
-## ✍️ Random Dev Quote
+## 💻 Tech Stack
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="NodeJS" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="50" height="50" alt="Canva" />
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50" height="50" alt="Premiere Pro" />
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="50" height="50" alt="Raspberry Pi" />
+  </a>
+</p>
 
----
+<br>
 
-## 🔝 Top Contributed Repos
+## 📊 GitHub Stats
 
-![](https://github-contributor-stats.vercel.app/api?username=suman897&limit=5&theme=default&combine_all_yearly_contributions=true)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suman897&show_icons=true&locale=en&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suman897&theme=default&hide_border=false" />
+  
+</p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman897&theme=default&hide_border=false&layout=compact" />
+<p align="center">
+  
+</p>
 
----
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
 
-<img src="https://raw.githubusercontent.com/suman897/suman897/output/snake.svg" alt="Snake animation" />
 
-###
-
----
 
 [![](https://visitcount.itsvg.in/api?id=suman897&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
