@@ -29,7 +29,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=suman897&theme=gruvbox&no-bg=true&margin-w=10&title=Commits,PullRequest,Repositories,Experience" />
 </p>
 
-<br>
 
 ## 💻 Tech Stack
 
@@ -89,11 +88,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suman897&show_icons=true&locale=en&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suman897&theme=default&hide_border=false" />
-  
+   
 </p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suman897&show_icons=true&locale=en&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suman897&theme=default&hide_border=false" /> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman897&theme=default&hide_border=false&layout=compact" />
+  
 <p align="center">
   
 </p>
